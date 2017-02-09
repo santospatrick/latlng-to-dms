@@ -1,6 +1,6 @@
 # latlng-to-dms
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-> :earth_americas: convert lat lng to dms format
+> convert lat lng to dms format
 
 ## Install
 
