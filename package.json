@@ -1,7 +1,7 @@
 {
   "name": "latlng-to-dms",
-  "version": "1.0.0",
-  "description": ":earth_americas: convert lat lng to dms format",
+  "version": "1.0.2",
+  "description": "convert lat lng to dms format",
   "main": "index.js",
   "scripts": {
     "test": "ava"
