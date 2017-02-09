@@ -1,4 +1,5 @@
 # latlng-to-dms
+[![Build Status](https://travis-ci.org/santospatrick/latlng-to-dms.svg?branch=master)](https://travis-ci.org/santospatrick/latlng-to-dms)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 > convert lat lng to dms format
 
